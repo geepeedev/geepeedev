@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geepeedev
-- 👀 I’m interested in mobile and web development 
+- 👀 I’m interested in mobile and backend development using go. 
 - 🌱 I’m currently learning flutter and dart 
 - 💞️ I’m looking to collaborate on flutter based projects 
 - 📫 You can reach out to me on godsplandev@gmail.com
